@@ -1,2 +1,2 @@
-# fristmeet
+# firstmeet
 fristmeet67
