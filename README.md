@@ -1,2 +1,2 @@
 # firstmeet
-fristmeet67
+firstmeet67
